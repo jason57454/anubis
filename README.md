@@ -2,6 +2,8 @@
 
 This website is made with some JS, and HTML/CSS.
 
+Link of the website : https://anubiswebsite.netlify.app
+
 This is the first section
 
 ![image](https://user-images.githubusercontent.com/102857631/178145033-1b59abfa-fe43-40bd-92fb-27f7e96bedee.png)
